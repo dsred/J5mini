@@ -17,5 +17,5 @@ Spezifications of the J5mini:
 
 <b> 1. Printer head and X-carrier</b>
 
-Is a remix of the well known and excellent EVA-system (https://main.eva-3d.page/) to fit a volcano hotend and to save some weight.
+Is a remix of the well known and excellent EVA-system (https://main.eva-3d.page/) to fit a volcano hotend and to save some weight. Including an accelerometer of input shaper measurements and a Z-probe device.
 
