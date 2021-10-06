@@ -2,7 +2,7 @@
 Just for fun construction of a 3d printer
 
 
-Spezifications of the J5mini:
+Specifications of the J5mini:
 - Build space approx. 250mm x 250 mm x 200 mm
 - Dimensions of the 3030-frame: 440mm x 580 mm x 525mm (width x height x depth)
 - Independent triple Z-axis on MGN12H driven by SFU1204
